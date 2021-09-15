@@ -1,0 +1,15 @@
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\Ferreteria - Presentacion.vbprojAssemblyReference.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.AgregarProducto.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Arqueo.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Configuracion.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Estadisticas.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Inventario.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Menu.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Proveedores.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Ventas.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Login.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Principal.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.Resources.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\Ferreteria - Presentacion.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\ProyectoFerreteria.exe.licenses
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\x86\Debug\Ferreteria - Presentacion.vbproj.CoreCompileInputs.cache

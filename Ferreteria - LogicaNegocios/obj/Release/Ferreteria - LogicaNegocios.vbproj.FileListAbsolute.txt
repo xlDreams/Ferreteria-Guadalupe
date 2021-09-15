@@ -1,0 +1,33 @@
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - LogicaNegocios.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - LogicaNegocios.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - LogicaNegocios.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - Entidades.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.dll.config
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - Entidades.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - Entidades.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.vbprojAssemblyReference.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria___LogicaNegocios.Resources.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.vbproj.CopyComplete
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - LogicaNegocios.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - LogicaNegocios.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - LogicaNegocios.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - Entidades.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - AccesoDatos.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - Entidades.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\Release\Ferreteria - Entidades.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria___LogicaNegocios.Resources.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.vbproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\Release\Ferreteria - LogicaNegocios.pdb

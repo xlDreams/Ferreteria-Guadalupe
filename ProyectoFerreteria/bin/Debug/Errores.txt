@@ -1,0 +1,222 @@
+﻿[2019/05/25 00:36:24]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:36:46]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:36:55]  System.Data.SqlClient.SqlException (0x80131904): Error de conversión al convertir el valor varchar '15590-6' al tipo de datos int.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   en System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   en System.Data.SqlClient.SqlDataReader.Read()
+   en System.Data.SqlClient.SqlCommand.CompleteExecuteScalar(SqlDataReader ds, Boolean returnSqlValue)
+   en System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   en Ferreteria___AccesoDatos.Dai_Producto.GetStockProducto(Int32 ID) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Producto.vb:línea 191
+   en Ferreteria___LogicaNegocios.Bol_Producto.ObtenerStockProducto(Int32 ID) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Producto.vb:línea 149
+ClientConnectionId:a58b8b89-cd04-4414-b0f0-065fab1dc71f
+Error Number:245,State:1,Class:16
+[2019/05/25 00:38:14]  System.Data.SqlClient.SqlException (0x80131904): Error de conversión al convertir el valor varchar '15590-6' al tipo de datos int.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   en System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   en System.Data.SqlClient.SqlDataReader.Read()
+   en System.Data.SqlClient.SqlCommand.CompleteExecuteScalar(SqlDataReader ds, Boolean returnSqlValue)
+   en System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   en Ferreteria___AccesoDatos.Dai_Producto.GetStockProducto(Int32 ID) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Producto.vb:línea 191
+   en Ferreteria___LogicaNegocios.Bol_Producto.ObtenerStockProducto(Int32 ID) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Producto.vb:línea 149
+ClientConnectionId:a58b8b89-cd04-4414-b0f0-065fab1dc71f
+Error Number:245,State:1,Class:16
+[2019/05/25 00:40:32]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:34]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:34]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:36]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:38]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:41]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:42]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:44]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:40:58]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/25 00:41:05]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/25 00:42:01]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:42:13]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:44:02]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/25 00:51:59]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 00:52:30]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/25 01:03:23]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 01:07:27]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 02:53:35]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 02:54:36]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 02:59:03]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 03:00:29]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 03:02:12]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 03:03:45]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 03:06:45]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 03:08:18]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/25 03:10:09]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 03:11:06]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 06:32:17]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 06:35:02]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 06:35:32]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/25 06:37:09]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/26 15:19:13]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/26 23:21:52]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/26 23:23:43]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/26 23:27:39]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/28 06:09:42]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/28 06:16:48]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/28 06:17:55]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/28 06:18:25]  System.InvalidCastException: El operador '+' no está definido para tipo 'DBNull' ni para tipo 'Integer'.
+   en Microsoft.VisualBasic.CompilerServices.Operators.AddObject(Object Left, Object Right)
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.ObtenerUltimoID() en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 93
+[2019/05/28 06:20:36]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/28 06:28:49]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/05/28 06:30:06]  System.InvalidOperationException: Error de lectura porque no hay datos.
+   en System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   en System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   en System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   en System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   en Ferreteria___AccesoDatos.Dai_Empleado.GetByName(String Name) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:línea 154
+   en Ferreteria___LogicaNegocios.Bol_Empleado.ObtenerNameEmpleado(String Name) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:línea 166
+[2019/06/14 21:35:29]  System.ArgumentException: Error al efectuar factura : System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_DetalleFactura_Producto". The conflict occurred in database "Ferreteria", table "dbo.Producto", column 'ID_Producto'.
+The statement has been terminated.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en Ferreteria___AccesoDatos.Dai_FacturaVenta.Insert(E_FacturaVenta Factura, List`1 Lineas) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_FacturaVenta.vb:línea 42
+ClientConnectionId:207276a7-e300-4d34-8897-eee645390ef6
+Error Number:547,State:0,Class:16
+   en Ferreteria___AccesoDatos.Dai_FacturaVenta.Insert(E_FacturaVenta Factura, List`1 Lineas) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_FacturaVenta.vb:línea 48
+   en Ferreteria___LogicaNegocios.Bol_FacturaVenta.InsertarFactura(E_FacturaVenta Factura, List`1 Lineas) en C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_FacturaVenta.vb:línea 24
+[2021/09/14 20:54:22]  System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Ferreteria___AccesoDatos.Dai_Empleado.VerificarUsuario(E_Empleado Empleado) in C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - AccesoDatos\Dai_Empleado.vb:line 11
+   at Ferreteria___LogicaNegocios.Bol_Empleado.AutenticarUsuario(E_Empleado Empleado) in C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - LogicaNegocios\Bol_Empleado.vb:line 30
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20

@@ -1,0 +1,131 @@
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.xml
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Login.resources
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Resources.resources
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.xml
+c:\users\richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Principal.resources
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.licenses
+C:\Users\Richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Inventario.resources
+C:\Users\Richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD.mdf
+C:\Users\Richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD_log.ldf
+C:\Users\Richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Menu.resources
+C:\Users\Richard\documents\visual studio 2015\Projects\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.VentaRapida.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD.mdf
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD_log.ldf
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.xml
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.dll
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.xml
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.AgregarProducto.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Inventario.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Menu.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.VentaRapida.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Login.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Principal.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Resources.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.GenerateResource.Cache
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.licenses
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.xml
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbprojResolveAssemblyReference.cache
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Ventas.resources
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.manifest
+C:\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.application
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.manifest
+C:\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.application
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD.mdf
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD_log.ldf
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.manifest
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.application
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.xml
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbprojAssemblyReference.cache
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.AgregarProducto.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Inventario.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Menu.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.VentaRapida.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Ventas.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Login.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Principal.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Resources.resources
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.licenses
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.manifest
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.application
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.CopyComplete
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.xml
+C:\Users\river\OneDrive\Documentos\ProyectoFerreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD.mdf
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\BaseDeDatos\FerreteriaBDD_log.ldf
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.manifest
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.application
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.AgregarProducto.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Arqueo.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Inventario.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Menu.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Ventas.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Login.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Principal.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Resources.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.licenses
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.manifest
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.application
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Configuracion.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Proveedores.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.manifest
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.application
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbprojAssemblyReference.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.AgregarProducto.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Arqueo.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Configuracion.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Inventario.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Menu.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Proveedores.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Ventas.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Login.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Principal.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Resources.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.licenses
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe.manifest
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.application
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.vbproj.CopyComplete
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb

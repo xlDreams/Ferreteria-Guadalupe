@@ -1,0 +1,17 @@
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - LogicaNegocios.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - LogicaNegocios.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - LogicaNegocios.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - AccesoDatos.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - Entidades.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - AccesoDatos.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - AccesoDatos.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - Entidades.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\bin\x86\Debug\Ferreteria - Entidades.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.vbprojAssemblyReference.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria___LogicaNegocios.Resources.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.vbproj.CopyComplete
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - LogicaNegocios\obj\x86\Debug\Ferreteria - LogicaNegocios.pdb

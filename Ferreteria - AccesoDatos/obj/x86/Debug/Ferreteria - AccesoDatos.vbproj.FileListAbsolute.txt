@@ -1,0 +1,14 @@
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\bin\x86\Debug\Ferreteria - AccesoDatos.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\bin\x86\Debug\Ferreteria - AccesoDatos.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\bin\x86\Debug\Ferreteria - AccesoDatos.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\bin\x86\Debug\Ferreteria - Entidades.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\bin\x86\Debug\Ferreteria - Entidades.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\bin\x86\Debug\Ferreteria - Entidades.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria___AccesoDatos.Resources.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.vbproj.CopyComplete
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - AccesoDatos\obj\x86\Debug\Ferreteria - AccesoDatos.pdb

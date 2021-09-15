@@ -1,0 +1,18 @@
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\bin\Release\Ferreteria - Entidades.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\bin\Release\Ferreteria - Entidades.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\bin\Release\Ferreteria - Entidades.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria___Entidades.Resources.resources
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.vbproj.GenerateResource.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.dll
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.xml
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.pdb
+C:\Users\river\OneDrive\Documentos\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.vbprojAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\bin\Release\Ferreteria - Entidades.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\bin\Release\Ferreteria - Entidades.pdb
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\bin\Release\Ferreteria - Entidades.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria___Entidades.Resources.resources
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.vbproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.dll
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.xml
+C:\Users\Richard\Documents\GitHub\Ferreteria\Ferreteria - Entidades\obj\Release\Ferreteria - Entidades.pdb
